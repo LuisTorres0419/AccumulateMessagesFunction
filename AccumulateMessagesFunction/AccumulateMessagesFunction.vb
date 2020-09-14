@@ -2,7 +2,8 @@
 'RCET0265
 'spring 2020
 'Accumulate Messages Function
-'
+'https://github.com/LuisTorres0419/AccumulateMessagesFunction.git
+
 Option Strict On
 Option Explicit On
 Option Compare Text
